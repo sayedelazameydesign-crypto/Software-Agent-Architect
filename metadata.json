@@ -1,0 +1,5 @@
+{
+  "name": "Software Agent Architect",
+  "description": "An interactive dashboard visualizing the Context Engineering architecture for a Software Agent, featuring architectural layers, data flows, and a live AI simulation using the Gemini API.",
+  "requestFramePermissions": []
+}
